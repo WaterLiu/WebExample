@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adbbbab1-e45e-4113-910b-da844dcd0ae4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react-redux-ducks-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/1-setup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/2-firstComponent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/3-componentMethodsAndFunctionalComponents.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/4-addingFunctionality.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/5-settingUpRedux.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes/6-reduxActionsAndReducers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ToDoApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/water.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/toDoAppContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/configureStore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/modules/toDoApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/talking-points.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="adbbbab1-e45e-4113-910b-da844dcd0ae4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -44,6 +15,7 @@
     <session id="928863037">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -287,20 +259,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533041573753</updated>
-      <workItem from="1533041575038" duration="2339000" />
+      <workItem from="1533041575038" duration="2792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2339000" />
+    <option name="totallyTimeSpent" value="2792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1401" y="23" width="1728" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="npm" sideWeight="0.5011442" side_tool="true" visible="true" weight="0.24956064" />
+      <window_info id="npm" sideWeight="0.50076807" side_tool="true" visible="true" weight="0.24956064" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49885583" visible="true" weight="0.24956064" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49923196" visible="true" weight="0.24956064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -308,7 +280,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
