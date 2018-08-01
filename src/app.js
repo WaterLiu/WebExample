@@ -8,11 +8,20 @@ import Water from './components/water';
 const store = configureStore();
 
 class App extends React.Component {
+
+
+    test()
+    {
+        let w = new Water(10);
+        w.test1();
+    }
+
     render() {
         return (
             <Provider store={store}>
-                <ToDoAppContainer/>
-                <Water/>
+                <ToDoAppContainer>
+                    <Water price={11}/>
+                </ToDoAppContainer>
             </Provider>
         );
     }

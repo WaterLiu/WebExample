@@ -30,16 +30,16 @@ class ToDoApp extends React.Component {
             <div className="panel-body">
               <h1>My To Do App</h1>
               <hr/>
-              <List
-                onClick={this.onListItemClick}
-                listItems={this.props.toDoApp.list}
-                deleteListItem={this.deleteListItem}
-              />
-              <Input
-                value={this.props.toDoApp.newToDo}
-                onChange={this.onInputChange}
-                onSubmit={this.onInputSubmit}
-              />
+              {/*<List*/}
+                {/*onClick={this.onListItemClick}*/}
+                {/*listItems={this.props.toDoApp.list}*/}
+                {/*deleteListItem={this.deleteListItem}*/}
+              {/*/>*/}
+              {/*<Input*/}
+                {/*value={this.props.toDoApp.newToDo}*/}
+                {/*onChange={this.onInputChange}*/}
+                {/*onSubmit={this.onInputSubmit}*/}
+              {/*/>*/}
             </div>
           </div>
         </div>

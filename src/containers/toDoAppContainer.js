@@ -22,7 +22,9 @@ function mapDispatchToProps(dispatch) {
   }; // here we're mapping actions to props
 }
 
-export default connect(
-  mapStateToProps,
-  mapDispatchToProps
-)(ToDoApp);
+// export default connect(
+//   mapStateToProps,
+//   mapDispatchToProps
+// )(ToDoApp);
+
+export default ToDoApp;
